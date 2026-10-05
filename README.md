@@ -1,12 +1,14 @@
 <h1 align="center">Olá, eu sou o Lucas Ribeiro 👋</h1>
-<p align="center"><b>Desenvolvedor Full Stack · Técnico em Climatização · Fundador da Nexus Climatização e Elétrica</b><br>Rio de Janeiro, Brasil</p>
+<p align="center"><b>Desenvolvedor Full Stack · Especialista em IA · Redes · Fundador da Nexus Climatização e Elétrica</b><br>Rio de Janeiro, Brasil</p>
 
 ---
 
 ### 🧑‍💻 Sobre mim
 
-Uno duas áreas: **campo e código**. Atuo como técnico em climatização e eletricidade e fundei a **Nexus Climatização e Elétrica**, empresa de manutenção HVAC, elétrica e facilities para redes de varejo. Uso essa vivência para criar software que resolve problemas reais de operação.
+Uno **campo, infraestrutura e código**. Atuo como desenvolvedor, especialista em Inteligência Artificial e profissional de redes. Também sou técnico em climatização e eletricidade e fundei a **Nexus Climatização e Elétrica**, empresa de manutenção HVAC, elétrica e facilities para redes de varejo. Uso essa vivência para criar software que resolve problemas reais de operação.
 
+- 🤖 **Especialista em IA**: aplicação de IA e automação em processos de negócio
+- 🌐 **Redes**: infraestrutura e redes de computadores
 - 🚀 Desenvolvendo um **ERP SaaS para gestão de facilities** (Django/DRF + React + Vite + Ant Design). Está em produção e o código é privado.
 - 🎓 **Ciência da Computação**: Estácio (conclusão em 2026)
 - ⚡ **Engenharia Elétrica**: Universidade Veiga de Almeida (em andamento)
@@ -34,6 +36,11 @@ Uno duas áreas: **campo e código**. Atuo como técnico em climatização e ele
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+**IA e infraestrutura**<br>
+![IA](https://img.shields.io/badge/Intelig%C3%AAncia_Artificial-412991?style=flat-square&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs_%26_Automa%C3%A7%C3%A3o-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Redes](https://img.shields.io/badge/Redes-005073?style=flat-square&logo=cisco&logoColor=white)
+
 **Testes e ferramentas**<br>
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
@@ -51,12 +58,12 @@ Uno duas áreas: **campo e código**. Atuo como técnico em climatização e ele
 
 | Projeto | O que pratiquei | Stack |
 |---|---|---|
-| [550-ebac](https://github.com/ProgRibeiro/550-ebac) | Persistência com DAO genérico (Clientes, Produtos, Vendas) | Java · JPA · Hibernate · Maven |
-| [AgendaREDUX](https://github.com/ProgRibeiro/AgendaREDUX) | Agenda de contatos com estado global | React · Redux Toolkit · TypeScript |
-| [Exerc-cio-m-dulo-3522](https://github.com/ProgRibeiro/Exerc-cio-m-dulo-3522) | Loja de games com rotas e componentização | React · TypeScript · React Router |
-| [Exerc-cio-m-dulo-3221](https://github.com/ProgRibeiro/Exerc-cio-m-dulo-3221) | Gerenciador de tarefas com filtros e cadastro | React · Redux Toolkit · React Router |
-| [34-ebac1](https://github.com/ProgRibeiro/34-ebac1) | Testes end-to-end | Cypress |
-| [Exerc-cio-M-dulo-27](https://github.com/ProgRibeiro/Exerc-cio-M-dulo-27) | Calculadora com componentes Vue | Vue 3 · Vite |
+| [ebac-java-jpa-hibernate-dao](https://github.com/ProgRibeiro/ebac-java-jpa-hibernate-dao) | Persistência com DAO genérico (Clientes, Produtos, Vendas) | Java · JPA · Hibernate · Maven |
+| [ebac-agenda-contatos-react-redux](https://github.com/ProgRibeiro/ebac-agenda-contatos-react-redux) | Agenda de contatos com estado global | React · Redux Toolkit · TypeScript |
+| [ebac-m35-loja-games-react](https://github.com/ProgRibeiro/ebac-m35-loja-games-react) | Loja de games com rotas e componentização | React · TypeScript · React Router |
+| [ebac-m32-gerenciador-tarefas-redux](https://github.com/ProgRibeiro/ebac-m32-gerenciador-tarefas-redux) | Gerenciador de tarefas com filtros e cadastro | React · Redux Toolkit · React Router |
+| [ebac-m34-testes-e2e-cypress](https://github.com/ProgRibeiro/ebac-m34-testes-e2e-cypress) | Testes end-to-end | Cypress |
+| [ebac-m27-calculadora-vue](https://github.com/ProgRibeiro/ebac-m27-calculadora-vue) | Calculadora com componentes Vue | Vue 3 · Vite |
 
 > 🔎 Todos os repositórios de estudo estão com a tag [`estudos`](https://github.com/ProgRibeiro?tab=repositories&q=topic%3Aestudos). Use os filtros de linguagem para navegar por tecnologia.
 
